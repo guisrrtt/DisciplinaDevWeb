@@ -15,7 +15,7 @@ export default function Home() {
       <figcaption>Guilherme Serretti</figcaption>  
       </figure>
       <br></br>  
-      <h2>Tenho 21 anos, sou estudante de Ciência da Computação na UNICAP.<br></br>No meu tempo livre, gosto de assistir futebol e jogar Counter-Strike.<br></br></h2>
+      <h2>Tenho 21 anos, sou estudante de Ciência da Computação na UNICAP.<br></br>No meu tempo livre, gosto de assistir futebol e jogar Counter-Strike.<br></br>Messi!</h2>
       
     </div>
   );
